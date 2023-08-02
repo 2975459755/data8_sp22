@@ -1,0 +1,11 @@
+0,SyntaxError,"invalid character '£©' (U+FF09) (2946242360.py, line 1)",0,,2023-07-29 15:03:24.814945
+1,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2023-07-29 15:04:37.185048
+2,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2023-07-29 15:13:27.930676
+3,ValueError,"The column label must be a string, but a ndarray was given",0,,2023-07-29 15:24:55.742575
+4,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2023-07-29 15:25:42.697127
+5,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2023-07-29 15:26:08.013137
+6,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2023-07-29 15:26:13.079241
+7,NameError,name 'are_above' is not defined,0,,2023-07-29 15:30:33.637485
+8,IndexError,index 0 is out of bounds for axis 0 with size 0,0,,2023-07-29 15:33:23.619316
+9,TypeError,unsupported operand type(s) for -: 'generator' and 'int',0,,2023-07-29 15:56:47.077219
+10,TypeError,unsupported operand type(s) for -: 'list' and 'int',0,,2023-07-29 15:56:52.165705

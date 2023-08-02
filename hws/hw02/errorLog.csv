@@ -1,0 +1,6 @@
+0,NameError,name 'power' is not defined,0,,2023-07-28 19:06:40.967965
+1,NameError,name 'grader' is not defined,0,,2023-07-28 19:06:48.697112
+2,NameError,name 'min_temperature' is not defined,0,,2023-07-28 20:42:06.130358
+3,TypeError,type numpy.ndarray doesn't define __round__ method,0,,2023-07-28 20:43:10.322563
+4,NameError,name 'waitings_times' is not defined,0,,2023-07-29 12:47:36.488545
+5,NameError,name 'table' is not defined,0,,2023-07-29 12:55:09.871346
