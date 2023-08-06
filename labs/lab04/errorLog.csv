@@ -1,0 +1,22 @@
+0,NameError,name 'factor' is not defined,0,,2023-08-03 19:39:23.175363
+1,NameError,name 'a_percentage' is not defined,0,,2023-08-03 19:40:06.278425
+2,NameError,name 'a_proprotion' is not defined,0,,2023-08-03 19:40:26.509699
+3,SyntaxError,"'(' was never closed (3849998386.py, line 3)",0,,2023-08-03 19:49:59.617741
+4,SyntaxError,"invalid syntax (3392935481.py, line 2)",0,,2023-08-03 19:52:34.881118
+6,SyntaxError,"'(' was never closed (2791271534.py, line 1)",0,,2023-08-03 20:00:11.708688
+7,TypeError,'int' object is not callable,0,,2023-08-03 20:07:29.507462
+8,NameError,name 'sub' is not defined,0,,2023-08-03 20:08:56.159990
+9,NameError,name 'read' is not defined,0,,2023-08-03 20:09:13.016259
+10,NameError,name 'mean' is not defined,0,,2023-08-03 20:09:26.228720
+11,NameError,name 'split' is not defined,0,,2023-08-03 20:09:30.655773
+12,NameError,name 'string' is not defined,0,,2023-08-03 20:09:58.401739
+13,NameError,name 'String' is not defined,0,,2023-08-03 20:10:05.285594
+14,NameError,name 'rand' is not defined,0,,2023-08-03 20:10:11.325571
+15,SyntaxError,"non-default argument follows default argument (2384222344.py, line 1)",0,,2023-08-03 20:20:35.023904
+16,ValueError,"label ""%Change"" not in labels ('Rank', 'Name', 'Company (Headquarters)', 'Total Pay', '% Change', 'Cash Pay', 'Equity Pay', 'Other Pay', 'Ratio of CEO pay to average industry worker pay', 'Total Pay ($)')",0,,2023-08-03 20:24:51.760283
+17,ValueError,could not convert string to float: '(No previous year)',0,,2023-08-03 20:32:01.778568
+18,ValueError,"operands could not be broadcast together with shapes (101,) (80,) ",0,,2023-08-03 20:33:31.953894
+19,ValueError,"operands could not be broadcast together with shapes (101,) (80,) ",0,,2023-08-03 20:33:50.124999
+20,ValueError,"operands could not be broadcast together with shapes (101,) (80,) ",0,,2023-08-03 20:33:55.300226
+21,AttributeError,'numpy.float64' object has no attribute 'strip',0,,2023-08-03 20:52:28.810049
+22,TypeError,'>' not supported between instances of 'numpy.str_' and 'float',0,,2023-08-03 20:57:17.045667
