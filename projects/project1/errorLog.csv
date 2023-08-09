@@ -1,0 +1,12 @@
+0,TypeError,unsupported operand type(s) for /: 'ellipsis' and 'int',0,,2023-08-08 11:34:36.347818
+1,TypeError,unsupported operand type(s) for /: 'ellipsis' and 'int',0,,2023-08-08 11:35:45.898964
+2,ValueError,"operands could not be broadcast together with shapes (11,) (10,) ",0,,2023-08-08 11:35:59.090741
+3,NameError,name 'coutry_fertility_after_start' is not defined,0,,2023-08-08 11:43:19.698812
+4,NameError,name 'coutry_fertility_after_start' is not defined,0,,2023-08-08 11:43:32.156100
+5,AttributeError,'ellipsis' object has no attribute 'column',0,,2023-08-08 11:50:26.535330
+6,NameError,name 'bgd_fertitily' is not defined,0,,2023-08-08 11:54:17.871769
+7,ValueError,"label ""Year"" not in labels ('Yaer', 'Child deaths per 1000 born')",0,,2023-08-08 11:54:34.837816
+8,ValueError,"The column ""time"" is not in the table. The table contains these columns: Year, Children per woman, Child deaths per 1000 born",0,,2023-08-08 11:54:49.965929
+9,NameError,name 'time' is not defined,0,,2023-08-08 11:56:15.908528
+10,AttributeError,'Table' object has no attribute 'relabeld',0,,2023-08-08 11:56:28.480570
+11,KeyError,0,0,,2023-08-08 11:56:45.854539

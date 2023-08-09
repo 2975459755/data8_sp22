@@ -1,0 +1,11 @@
+0,TypeError,Table.scatter() missing 1 required positional argument: 'column_for_x',0,,2023-08-07 19:52:01.205964
+1,NameError,name 'average' is not defined,0,,2023-08-07 20:09:03.887427
+2,ValueError,"The column ""Overall"" is not in the table. The table contains these columns: Name, Yelp average, Google average, Overall average, Menu_Item average, Cost average",0,,2023-08-07 20:09:09.762491
+3,ValueError,"label ""Menu_item"" not in labels ('Name', 'Yelp', 'Google', 'Overall', 'Menu_Item', 'Cost')",0,,2023-08-07 20:12:14.583359
+4,ValueError,"The column ""Name"" is not in the table. The table contains these columns: Menu_Item, Name average, Yelp average, Google average, Overall average, Cost average",0,,2023-08-07 20:12:39.186057
+5,SyntaxError,"invalid syntax (1362585073.py, line 1)",0,,2023-08-07 20:14:39.704414
+6,NameError,name 'california_burrito' is not defined,0,,2023-08-07 20:14:52.450762
+7,ValueError,The column 'Menu_Item' contains non-numerical values. A histogram cannot be drawn for this table.,0,,2023-08-07 20:24:27.120632
+8,ValueError,"The column ""Departments"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2023-08-07 21:02:29.144622
+9,ValueError,"The column ""Organization Groups"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2023-08-07 21:02:44.962023
+10,ValueError,"label ""Total Compensation"" not in labels ('Department', 'Job average', 'Organization Group average', 'Total Compensation average')",0,,2023-08-07 21:09:27.677824
