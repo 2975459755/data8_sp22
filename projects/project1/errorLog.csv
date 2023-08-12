@@ -10,3 +10,18 @@
 9,NameError,name 'time' is not defined,0,,2023-08-08 11:56:15.908528
 10,AttributeError,'Table' object has no attribute 'relabeld',0,,2023-08-08 11:56:28.480570
 11,KeyError,0,0,,2023-08-08 11:56:45.854539
+12,ValueError,"label ""year"" not in labels ('geo', 'time', 'population_total')",0,,2023-08-11 22:07:09.361804
+13,ValueError,"label ""Year"" not in labels ('geo', 'time', 'population_total')",0,,2023-08-11 22:07:14.740480
+14,IndexError,index 1960 is out of bounds for axis 0 with size 221,0,,2023-08-11 22:11:14.197980
+15,NameError,name 'double' is not defined,0,,2023-08-11 22:22:13.383743
+16,SyntaxError,"invalid character '£¬' (U+FF0C) (1038317396.py, line 5)",0,,2023-08-11 22:34:32.439130
+17,TypeError,Table.group() got an unexpected keyword argument 'dtype',0,,2023-08-11 22:34:38.586895
+18,NameError,name 'npint64' is not defined,0,,2023-08-11 22:36:02.823203
+19,NameError,name 'populaton' is not defined,0,,2023-08-11 22:38:09.249647
+20,AttributeError,'NoneType' object has no attribute 'join',0,,2023-08-11 22:38:25.885983
+21,AttributeError,'NoneType' object has no attribute 'join',0,,2023-08-11 22:39:51.534835
+22,AttributeError,'NoneType' object has no attribute 'join',0,,2023-08-11 22:41:02.387950
+23,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2023-08-11 22:41:50.066932
+24,AttributeError,'NoneType' object has no attribute 'join',0,,2023-08-11 22:42:11.243064
+25,ValueError,"label ""geo"" not in labels ('country', 'g77_and_oecd_countries', 'income_groups', 'is--country', 'iso3166_1_alpha2', 'iso3166_1_alpha3', 'iso3166_1_numeric', 'iso3166_2', 'landlocked', 'latitude', 'longitude', 'main_religion_2008', 'name', 'un_state', 'unicef_region', 'unicode_region_subtag', 'world_4region', 'world_6region')",0,,2023-08-12 17:47:48.076908
+26,AttributeError,'Table' object has no attribute 'relabeld',0,,2023-08-12 17:48:09.921056
