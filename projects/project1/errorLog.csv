@@ -25,3 +25,35 @@
 24,AttributeError,'NoneType' object has no attribute 'join',0,,2023-08-11 22:42:11.243064
 25,ValueError,"label ""geo"" not in labels ('country', 'g77_and_oecd_countries', 'income_groups', 'is--country', 'iso3166_1_alpha2', 'iso3166_1_alpha3', 'iso3166_1_numeric', 'iso3166_2', 'landlocked', 'latitude', 'longitude', 'main_religion_2008', 'name', 'un_state', 'unicef_region', 'unicode_region_subtag', 'world_4region', 'world_6region')",0,,2023-08-12 17:47:48.076908
 26,AttributeError,'Table' object has no attribute 'relabeld',0,,2023-08-12 17:48:09.921056
+27,TypeError,array() takes from 1 to 2 positional arguments but 3 were given,0,,2023-08-13 17:38:31.370865
+28,NameError,name 'true' is not defined,0,,2023-08-13 17:49:54.037319
+29,SyntaxError,"invalid syntax (302080292.py, line 2)",0,,2023-08-13 19:29:16.070807
+30,TypeError,'int' object is not iterable,0,,2023-08-13 19:51:17.433049
+31,TypeError,'int' object is not iterable,0,,2023-08-13 19:52:25.414906
+32,TypeError,'int' object is not iterable,0,,2023-08-13 19:53:23.298967
+33,TypeError,array() missing required argument 'object' (pos 0),0,,2023-08-13 19:53:36.857231
+34,TypeError,arange() requires stop to be specified.,0,,2023-08-13 19:54:30.664359
+35,TypeError,'int' object is not iterable,0,,2023-08-13 19:55:35.722455
+36,TypeError,'int' object is not iterable,0,,2023-08-13 19:57:08.620975
+37,TypeError,'int' object is not iterable,0,,2023-08-13 19:58:28.935051
+38,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2023-08-13 19:59:55.118948
+39,NameError,name 'append' is not defined,0,,2023-08-13 20:00:03.864876
+40,IndexError,index 209 is out of bounds for axis 0 with size 145,0,,2023-08-13 20:00:55.586082
+41,TypeError,'int' object is not iterable,0,,2023-08-13 20:03:35.961571
+42,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2023-08-13 20:04:17.207027
+43,ValueError,"operands could not be broadcast together with shapes (145,) (0,) ",0,,2023-08-13 20:04:31.975410
+44,NameError,name 'poupulation' is not defined,0,,2023-08-13 20:18:15.138693
+45,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2023-08-13 20:18:22.066525
+46,SyntaxError,"'(' was never closed (3008684299.py, line 17)",0,,2023-08-13 20:35:13.145326
+47,NameError,name 'last_poverty' is not defined,0,,2023-08-13 20:35:16.471427
+48,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2023-08-13 20:35:34.842268
+49,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2023-08-13 20:38:10.030601
+50,NameError,name 'populaton' is not defined,0,,2023-08-13 20:39:30.664343
+51,SyntaxError,"invalid syntax (4179325501.py, line 17)",0,,2023-08-13 20:46:09.342040
+52,NotJSONError,Notebook does not appear to be JSON: '',0,,2023-08-13 21:08:19.930058
+53,SyntaxError,"invalid syntax (486376395.py, line 2)",0,,2023-08-13 21:15:04.667633
+54,SyntaxError,"incomplete input (647960021.py, line 1)",0,,2023-08-13 21:31:35.454158
+55,NameError,name 'ago' is not defined,0,,2023-08-13 21:32:19.643235
+56,IndexError,index 0 is out of bounds for axis 0 with size 0,0,,2023-08-13 21:51:40.795596
+57,ValueError,"The column ""coutry"" is not in the table. The table contains these columns: country, g77_and_oecd_countries, income_groups, is--country, iso3166_1_alpha2, iso3166_1_alpha3, iso3166_1_numeric, iso3166_2, landlocked, latitude, longitude, main_religion_2008, name, un_state, unicef_region, unicode_region_subtag, world_4region, world_6region",0,,2023-08-13 22:06:07.110567
+58,ValueError,"The column ""coutry"" is not in the table. The table contains these columns: country, g77_and_oecd_countries, income_groups, is--country, iso3166_1_alpha2, iso3166_1_alpha3, iso3166_1_numeric, iso3166_2, landlocked, latitude, longitude, main_religion_2008, name, un_state, unicef_region, unicode_region_subtag, world_4region, world_6region",0,,2023-08-13 22:06:53.613869
