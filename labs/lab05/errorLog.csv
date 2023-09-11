@@ -1,0 +1,5 @@
+0,SyntaxError,"invalid syntax. Maybe you meant '==' or ':=' instead of '='? (3845020129.py, line 2)",0,,2023-09-11 10:01:41.471875
+1,SyntaxError,"'(' was never closed (2812225279.py, line 2)",0,,2023-09-11 10:11:12.015891
+2,NameError,name 'ten_nachos_reations' is not defined,0,,2023-09-11 10:12:07.937609
+3,SyntaxError,"cannot assign to ellipsis (2358426030.py, line 6)",0,,2023-09-11 10:15:43.681650
+4,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2023-09-11 10:17:01.245410
