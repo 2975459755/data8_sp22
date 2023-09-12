@@ -3,3 +3,6 @@
 2,NameError,name 'ten_nachos_reations' is not defined,0,,2023-09-11 10:12:07.937609
 3,SyntaxError,"cannot assign to ellipsis (2358426030.py, line 6)",0,,2023-09-11 10:15:43.681650
 4,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2023-09-11 10:17:01.245410
+5,NameError,name 'my_small_stats' is not defined,0,,2023-09-12 11:03:53.127802
+6,ValueError,"The column ""Age"" is not in the table. The table contains these columns: PlayerName, Salary",0,,2023-09-12 11:04:22.776202
+7,SyntaxError,"cannot assign to function call (2598960895.py, line 1)",0,,2023-09-12 11:08:20.638648
