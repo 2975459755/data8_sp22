@@ -2,3 +2,8 @@
 1,TypeError,array() missing required argument 'object' (pos 0),0,,2023-09-13 13:11:39.486628
 2,TypeError,'float' object cannot be interpreted as an integer,0,,2023-09-13 13:15:42.406645
 4,SyntaxError,"invalid syntax (187899433.py, line 1)",0,,2023-09-13 14:21:39.672665
+5,ValueError,"label ""T"" not in labels ('L', 'T^2')",0,,2023-09-19 17:21:58.332852
+6,ValueError,"label ""T_2"" not in labels ('L', 'T^2')",0,,2023-09-19 17:22:14.639739
+7,ValueError,"label ""T*2"" not in labels ('L', 'T^2')",0,,2023-09-19 17:22:21.151920
+8,TypeError,'builtin_function_or_method' object is not subscriptable,0,,2023-09-20 11:04:58.126449
+9,ValueError,"pvals < 0, pvals > 1 or pvals contains NaNs",0,,2023-09-20 11:08:30.594260
