@@ -1,0 +1,23 @@
+0,NameError,name 'i' is not defined,0,,2023-10-24 10:24:38.151849
+1,SyntaxError,"unterminated string literal (detected at line 2) (2568048170.py, line 2)",0,,2023-10-26 11:09:03.887174
+2,TypeError,'tuple' object is not callable,0,,2023-10-26 11:09:16.819216
+3,AttributeError,module 'numpy' has no attribute 'means',0,,2023-10-26 11:19:29.220793
+4,AttributeError,module 'numpy' has no attribute 'avrage',0,,2023-10-26 11:19:50.632391
+5,ValueError,"The column ""star baker awards mean"" is not in the table. The table contains these columns: won, star baker awards average",0,,2023-10-26 11:19:52.931145
+6,AttributeError,'numpy.ndarray' object has no attribute 'with_columns',0,,2023-10-26 11:27:21.182818
+7,TypeError,'tuple' object is not callable,0,,2023-10-26 11:27:33.421258
+8,ValueError,"The column label must be a string, but a int32 was given",0,,2023-10-26 11:27:42.315661
+9,TypeError,'tuple' object is not callable,0,,2023-10-26 11:29:52.570930
+10,ValueError,"The column label must be a string, but a int32 was given",0,,2023-10-26 11:30:05.989051
+11,AttributeError,'Table' object has no attribute 'rename',0,,2023-10-26 11:31:16.733853
+12,AttributeError,'Table' object has no attribute 'renamed',0,,2023-10-26 11:31:25.768074
+13,ValueError,"The column label must be a string, but a int32 was given",0,,2023-10-26 11:31:56.356706
+14,ValueError,"The column label must be a string, but a int32 was given",0,,2023-10-26 11:39:06.483743
+15,ValueError,"The column label must be a string, but a int32 was given",0,,2023-10-26 17:23:00.162632
+16,TypeError,Table.with_column() missing 1 required positional argument: 'values',0,,2023-10-26 17:23:33.627993
+17,ValueError,"The column label must be a string, but a int32 was given",0,,2023-10-26 17:23:52.685582
+18,AttributeError,'NoneType' object has no attribute 'item',0,,2023-10-26 17:32:29.705937
+19,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2023-10-26 17:35:41.953505
+20,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2023-10-26 17:35:49.221571
+21,NameError,name 'true' is not defined,0,,2023-10-26 17:35:57.578572
+22,TypeError,'float' object cannot be interpreted as an integer,0,,2023-10-26 17:36:52.331793
