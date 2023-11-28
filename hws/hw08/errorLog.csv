@@ -1,0 +1,21 @@
+0,NameError,name 'count' is not defined,0,,2023-11-25 20:16:00.048574
+1,AttributeError,module 'numpy' has no attribute 'len',0,,2023-11-25 20:16:30.769192
+2,AttributeError,module 'numpy' has no attribute 'count',0,,2023-11-25 20:16:39.032359
+3,NameError,name 'average' is not defined,0,,2023-11-25 20:18:01.329214
+4,TypeError,Table.apply() got an unexpected keyword argument 'col1',0,,2023-11-25 20:21:20.579487
+5,TypeError,"ufunc 'divide' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''",0,,2023-11-25 20:21:30.053286
+6,SyntaxError,"incomplete input (2113693050.py, line 8)",0,,2023-11-25 20:23:35.297673
+7,ValueError,The index 1 is not in the table. Only indices between 0 and 0 are valid,0,,2023-11-25 20:24:29.683080
+8,TypeError,object of type 'function' has no len(),0,,2023-11-25 20:31:47.812824
+9,AttributeError,'numpy.ndarray' object has no attribute 'length',0,,2023-11-27 08:42:24.416525
+10,TypeError,'<=' not supported between instances of 'function' and 'function',0,,2023-11-28 10:37:44.682860
+11,TypeError,one_resampled_difference() missing 1 required positional argument: 'tbl',0,,2023-11-28 10:37:49.872274
+12,AttributeError,Attribute (sample) not found in row.,0,,2023-11-28 10:39:42.150334
+13,AttributeError,'numpy.str_' object has no attribute 'sample',0,,2023-11-28 10:43:46.819885
+14,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2023-11-28 10:44:40.447606
+15,NameError,name 'true' is not defined,0,,2023-11-28 10:45:07.104869
+16,TypeError,one_resampled_difference() missing 1 required positional argument: 'tbl',0,,2023-11-28 10:45:49.363032
+17,NameError,name 'sample_leads' is not defined,0,,2023-11-28 10:57:34.984125
+18,AttributeError,'NoneType' object has no attribute 'item',0,,2023-11-28 10:59:07.180433
+19,AttributeError,'builtin_function_or_method' object has no attribute 'item',0,,2023-11-28 10:59:14.541658
+20,NameError,name 'double' is not defined,0,,2023-11-28 11:01:28.077527
